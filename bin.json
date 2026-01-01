@@ -1,4 +1,7 @@
 {
-  "next_bin": "reclycling",
-  "collection_date": "2026-01-03"
+  "collection_date": "2026-01-03",
+  "bins": [
+    "reclycling",
+    "general"
+  ]
 }
